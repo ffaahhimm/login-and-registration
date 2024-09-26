@@ -1,2 +1,1 @@
-# login-and-registration
-Bharat Intern Project
+a sample login and registration form 
